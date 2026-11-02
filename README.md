@@ -12,5 +12,3 @@ Licenciado en Diseño Gráfico (UAA). Diseñador en **Relief Web & Design** desd
 **Diseño:** Photoshop · Illustrator · InDesign · Lightroom · Figma<br>
 **Web:** HTML · CSS · JavaScript · Tailwind · WordPress · WooCommerce · Shopify<br>
 **Automatización:** n8n
-
-📷 [@jorgito.xyz](https://instagram.com/jorgito.xyz)
