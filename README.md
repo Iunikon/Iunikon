@@ -2,8 +2,15 @@
 
 **Graphic Designer** · UX/UI · Web · Automatizaciones
 
-- 🎨 Diseño de interfaces, usabilidad y accesibilidad.
-- 🌐 Sitios y aplicaciones web.
+Licenciado en Diseño Gráfico (UAA). Diseñador en **Relief Web & Design** desde 2021.
+
+- ✏️ Diseño gráfico, identidad visual y fotografía.
+- 🎨 Diseño de interfaces UX/UI.
+- 🌐 Sitios web y tiendas en línea.
 - ⚙️ Automatización de procesos y flujos de trabajo.
 
-**Herramientas:** Figma · HTML/CSS/JavaScript · Supabase · n8n · Claude Code
+**Diseño:** Photoshop · Illustrator · InDesign · Lightroom · Figma<br>
+**Web:** HTML · CSS · JavaScript · Tailwind · WordPress · WooCommerce · Shopify<br>
+**Automatización:** n8n
+
+📷 [@jorgito.xyz](https://instagram.com/jorgito.xyz)
