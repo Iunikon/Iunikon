@@ -1,4 +1,4 @@
-## Hola, soy Jorge 👋
+## Hola, soy Jorge ✨
 
 **Graphic Designer** · UX/UI · Web · Automatizaciones
 
